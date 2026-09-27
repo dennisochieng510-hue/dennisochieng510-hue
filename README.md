@@ -1,4 +1,5 @@
-👋 HI, I'M DENNIS | DENNIS-OCHIENG
+![Banner](IMG-20260927-WA2707.jpg)
+ 👋 HI, I'M DENNIS | DENNIS-OCHIENG
 
 Developer | Bot Creator | Open Source
 
