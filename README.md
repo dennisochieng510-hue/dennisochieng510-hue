@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 HI, I'M DENNIS | DENNIS-OCHIENG
 
-<!--
-**dennisochieng510-hue/dennisochieng510-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer | Bot Creator | Open Source
 
-Here are some ideas to get you started:
+🏠 Working from home
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+FOLLOW ME ON ALL THE LINKS IN MY BIO AND FOLLOW MY GITHUB ACCOUNT.
+PLEASE SHARE THE LINK TO MY GITHUB ACCOUNT.👇
+
+- 📍 Kenya
+- 💼 Working on YASIYA-MD
+- 📧 your-email@gmail.com
+- 🔗 https://github.com/dennisochieng510-hue
